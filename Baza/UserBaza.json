@@ -1,0 +1,119 @@
+[
+  {
+    "Id": 1,
+    "Name": "Umarbek",
+    "Surname": "Kanalbekov",
+    "Fan": ".Net",
+    "Password": "12345678",
+    "Natija": "T:3, N:0 | T:5, N:0",
+    "Toifa": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Temurhon",
+    "Surname": "Shodiev",
+    "Fan": ".Net",
+    "Password": "8520",
+    "Natija": null,
+    "Toifa": 0
+  },
+  {
+    "Id": 3,
+    "Name": "Muhammad",
+    "Surname": "Aliyev",
+    "Fan": ".Net",
+    "Password": "010101",
+    "Natija": null,
+    "Toifa": 0
+  },
+  {
+    "Id": 4,
+    "Name": "Muhammad",
+    "Surname": "Aliyev",
+    "Fan": ".Net",
+    "Password": "010101",
+    "Natija": null,
+    "Toifa": 0
+  },
+  {
+    "Id": 5,
+    "Name": "qwerty",
+    "Surname": "qwerty",
+    "Fan": "C#",
+    "Password": "qwerty",
+    "Natija": null,
+    "Toifa": 0
+  },
+  {
+    "Id": 6,
+    "Name": "4545",
+    "Surname": "4545",
+    "Fan": "C#",
+    "Password": "4545",
+    "Natija": "T:3, N:0 | T:1, N:2 | T:0, N:3 | T:2, N:1 | T:1, N:2",
+    "Toifa": 0
+  },
+  {
+    "Id": 7,
+    "Name": "789",
+    "Surname": "789",
+    "Fan": "C#",
+    "Password": "789",
+    "Natija": "T:1, N:2",
+    "Toifa": 0
+  },
+  {
+    "Id": 8,
+    "Name": "thjyrjt",
+    "Surname": "ytjtyk",
+    "Fan": "Pyhton",
+    "Password": "tyjtyku",
+    "Natija": null,
+    "Toifa": 0
+  },
+  {
+    "Id": 9,
+    "Name": "rtjrjrf",
+    "Surname": "rtjytj",
+    "Fan": "C#",
+    "Password": "123",
+    "Natija": "T:1, N:2",
+    "Toifa": 0
+  },
+  {
+    "Id": 10,
+    "Name": "efrgerg",
+    "Surname": "rgerht",
+    "Fan": "C#",
+    "Password": "fgfgnfg",
+    "Natija": null,
+    "Toifa": 0
+  },
+  {
+    "Id": 11,
+    "Name": "12",
+    "Surname": "12",
+    "Fan": ".Net",
+    "Password": "12",
+    "Natija": null,
+    "Toifa": 1
+  },
+  {
+    "Id": 12,
+    "Name": "fgjjn",
+    "Surname": "fgnfhn",
+    "Fan": "Pyhton",
+    "Password": "fdgfg",
+    "Natija": null,
+    "Toifa": 0
+  },
+  {
+    "Id": 13,
+    "Name": "23",
+    "Surname": "23",
+    "Fan": ".Net",
+    "Password": "23",
+    "Natija": null,
+    "Toifa": 1
+  }
+]

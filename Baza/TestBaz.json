@@ -1,0 +1,101 @@
+[
+  {
+    "Id": 1,
+    "UserFan": ".Net",
+    "Savol": ".Net nima",
+    "A": "Fremwork",
+    "B": "Dasturlashtili",
+    "C": "Opnsors cros platforma",
+    "Javob": "Opnsors cros platforma"
+  },
+  {
+    "Id": 2,
+    "UserFan": ".Net",
+    "Savol": ".Net ko'ptarmoqlimi",
+    "A": "Faqat IOT uchun",
+    "B": "Ko'ptarmoqli Opensors",
+    "C": "Beckent uchun",
+    "Javob": "Ko'ptarmoqli Opensors"
+  },
+  {
+    "Id": 3,
+    "UserFan": ".Net",
+    "Savol": "Data typlari nechta",
+    "A": "2 refrns va value",
+    "B": "3 refrns, value va Heep",
+    "C": "a va b javoblar to'g'ri",
+    "Javob": "2 refrns va value"
+  },
+  {
+    "Id": 4,
+    "UserFan": "C++",
+    "Savol": "Value typlar qayerda saqlanadi",
+    "A": "refrns",
+    "B": "Heep",
+    "C": "Steck",
+    "Javob": "Steck"
+  },
+  {
+    "Id": 5,
+    "UserFan": ".Net",
+    "Savol": ".Net nima",
+    "A": "Fremwork",
+    "B": "Dasturlashtili",
+    "C": "Opnsors ecosistema",
+    "Javob": "Opnsors ecosistema"
+  },
+  {
+    "Id": 6,
+    "UserFan": ".Net",
+    "Savol": ".Net ko'ptarmoqlimi",
+    "A": "Faqat IOT uchun",
+    "B": "Ko'ptarmoqli Opensors",
+    "C": "Beckent uchun",
+    "Javob": "Ko'ptarmoqli Opensors"
+  },
+  {
+    "Id": 7,
+    "UserFan": ".Net",
+    "Savol": "Data typlari nechta",
+    "A": "2 refrns va value",
+    "B": "3 refrns, value va Heep",
+    "C": "a va b javoblar to'g'ri",
+    "Javob": "2 refrns va value"
+  },
+  {
+    "Id": 8,
+    "UserFan": "C++",
+    "Savol": "Value typlar qayerda saqlanadi",
+    "A": "refrns",
+    "B": "Heep",
+    "C": "Steck",
+    "Javob": "Steck"
+  },
+  {
+    "Id": 9,
+    "UserFan": ".Net",
+    "Savol": ".Net nima",
+    "A": "Fremwork",
+    "B": "Dasturlashtili",
+    "C": "Opnsors ecosistema",
+    "Javob": "Opnsors ecosistema"
+  },
+  {
+    "Id": 10,
+    "UserFan": "C#",
+    "Savol": ".Net ko'ptarmoqlimi",
+    "A": "Faqat IOT uchun",
+    "B": "Ko'ptarmoqli Opensors",
+    "C": "Beckent uchun",
+    "Javob": "Ko'ptarmoqli Opensors"
+  },
+  {
+    "Id": 11,
+    "UserFan": "C#",
+    "Savol": "Data typlari nechta",
+    "A": "2 refrns va value",
+    "B": "3 refrns, value va Heep",
+    "C": "a va b javoblar to'g'ri",
+    "Javob": "2 refrns va value"
+  }
+]
